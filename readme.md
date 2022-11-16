@@ -1,0 +1,1 @@
+ini adalah tampilan ui dari aplikasi absen siswa smk darut taqwa purwosari
